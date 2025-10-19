@@ -21,7 +21,7 @@ Este repositório serve como **template inicial** para o desafio. Todos os desaf
 
 1. **Fazer um FORK** deste repositório template
 2. **Clonar o fork** para sua máquina local
-3. Trabalhar no seu próprio fork seguindo as regras do GitFlow
+3. Trabalhar no seu próprio fork seguindo as regras do **GitFlow**
 
 > ⚠️ **Não trabalhe diretamente neste repositório original!** Use sempre seu fork.
 
